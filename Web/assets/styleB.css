@@ -96,6 +96,10 @@ main{
     gap: 2rem;
     padding-bottom: 5rem
 }
+.main-article-center{
+    align-items: center;
+}
+
 .categories{
     display: flex;
     flex-wrap: wrap;
@@ -137,6 +141,7 @@ main>article{
     display: flex;
     flex-direction: column;
     gap: 2rem;
+    align-items: center;
 }
 .article-text{
     display: flex;
