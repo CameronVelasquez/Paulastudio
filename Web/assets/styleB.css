@@ -143,13 +143,17 @@ main>article{
     gap: 2rem;
     align-items: center;
 }
+.article-name{
+    margin: 3rem;
+}
 .article-text{
     display: flex;
     line-height: 2rem;
+    width: 70vw;
 }
 
 .article-media{
-    width: 80vw;
+    width: 70vw;
 }
 
 .toggleMenu, .toggleBanner{
